@@ -1,0 +1,7 @@
+github.com/go-ego/cedar v0.0.0-20200216133617-4c2101427ebf h1:awLX9T1d21rV0xaQSmtWCAa7WXdxXDz+gida0X8LSNc=
+github.com/go-ego/cedar v0.0.0-20200216133617-4c2101427ebf/go.mod h1:ATtMehzYSopsg1xy2sNQU7/GvvF+kEzJBPAz9/oOV7Y=
+github.com/go-ego/gse v0.0.0-20200406183121-100410236d80 h1:7ACi1Yt9d27Opu67CufRnfuqXcE5YS/2aFmuqpJBU3o=
+github.com/go-ego/gse v0.0.0-20200406183121-100410236d80/go.mod h1:uRpJAgVoqQJiDLHQ5ao/8+ugODnsVoOCXcVRmTvNwes=
+github.com/n3integration/classifier v0.4.0 h1:LMrYvQF7s25PuWm0wlZ3fvGLW+PKewP3FEDdpq/AdbA=
+github.com/n3integration/classifier v0.4.0/go.mod h1:puJKkNjLUHUBLINSlu2ZUMQU2kfzgGTDHvz3tCXPzJg=
+github.com/vcaesar/tt v0.0.0-20200214111121-9561a943a243/go.mod h1:GHPxQYhn+7OgKakRusH7KJ0M5MhywoeLb8Fcffs/Gtg=
